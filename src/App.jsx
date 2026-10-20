@@ -4,6 +4,7 @@ import Visualizer from './components/Visualizer';
 import SoundButton from './components/SoundButton';
 
 const SOUNDS = [
+  { id: 'pefeto', label: 'PEFETO', icon: 'campaign', isNew: true },
   { id: 'nada-que-ver', label: 'NAH_QUE_VEEH', icon: 'visibility_off' },
   { id: 'no-me-quemes', label: 'NO_ME_QUEMES', icon: 'local_fire_department' },
   { id: 'no-quieros-vivir', label: 'NO_QUIERO_VIVIR', icon: 'sentiment_very_dissatisfied' },
@@ -40,8 +41,7 @@ const SOUNDS = [
   { id: 'es-hoy', label: 'TODAY_IS_THE_DAY', icon: 'today' },
   { id: 'punch', label: 'IMPACT_FX', icon: 'ads_click' },
   { id: 'cri-cri', label: 'CRICKET_SILENCE', icon: 'nature' },
-  { id: 'calm', label: 'CALM_MODE', icon: 'spa' },
-  { id: 'pefeto', label: 'PEFETO', icon: 'campaign' }
+  { id: 'calm', label: 'CALM_MODE', icon: 'spa' }
 ];
 
 function App() {
