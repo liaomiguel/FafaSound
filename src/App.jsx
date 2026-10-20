@@ -40,7 +40,8 @@ const SOUNDS = [
   { id: 'es-hoy', label: 'TODAY_IS_THE_DAY', icon: 'today' },
   { id: 'punch', label: 'IMPACT_FX', icon: 'ads_click' },
   { id: 'cri-cri', label: 'CRICKET_SILENCE', icon: 'nature' },
-  { id: 'calm', label: 'CALM_MODE', icon: 'spa' }
+  { id: 'calm', label: 'CALM_MODE', icon: 'spa' },
+  { id: 'pefeto', label: 'PEFETO', icon: 'campaign' }
 ];
 
 function App() {

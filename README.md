@@ -16,7 +16,7 @@ FAFA SOUND OS is a high-performance, futuristic soundboard built with **React** 
 - **PWA (Progressive Web App)**: Installable on mobile and desktop for a native experience.
 - **React Powered**: Built with modern React hooks for seamless state management.
 - **Responsive & Fluid**: Optimized for all screen sizes, from mobile devices to ultra-wide monitors.
-- **Material Icons**: Clean, technical iconography for all 38 sound files.
+- **Material Icons**: Clean, technical iconography for all 39 sound files.
 
 ## 🚀 Quick Start
 
