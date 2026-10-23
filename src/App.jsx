@@ -4,6 +4,7 @@ import Visualizer from './components/Visualizer';
 import SoundButton from './components/SoundButton';
 
 const SOUNDS = [
+  { id: 'patito', label: 'PATITO', icon: 'bathtub', isNew: true },
   { id: 'harta', label: 'HARTA', icon: 'sentiment_very_dissatisfied', isNew: true },
   { id: 'pefeto', label: 'PEFETO', icon: 'campaign', isNew: true },
   { id: 'nada-que-ver', label: 'NAH_QUE_VEEH', icon: 'visibility_off' },
